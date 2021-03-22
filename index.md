@@ -9,14 +9,19 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 * * *
 
 # Dates
+
 *   Date 1
 *   Date 2
 *   Date 3
+
 * * *
+
 # Organizing Committee
+
 *   Person 1
 *   Person 2
 *   Person 3
+
 * * *
 
 # Program
